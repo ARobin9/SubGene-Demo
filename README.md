@@ -4,9 +4,7 @@ Download the file SubGene.lua.
 
 Copy SubGene.lua to the following directory of your Aegisub installation:
 
-bash
-复制
-编辑
+
 \automation\autoload
 (This folder is usually inside your Aegisub software directory.)
 
